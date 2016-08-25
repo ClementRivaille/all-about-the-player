@@ -1,0 +1,31 @@
+{
+  "behaviors": {
+    "ButtonBehavior": {
+      "scriptId": "6",
+      "line": 4,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "key",
+          "type": "string"
+        }
+      ]
+    },
+    "PadBehavior": {
+      "scriptId": "7",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "GUIBehavior": {
+      "scriptId": "11",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

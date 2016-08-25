@@ -1,0 +1,156 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 70,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 57,
+    "height": 57
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "A",
+      "startFrameIndex": 0,
+      "endFrameIndex": 0,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "A_pushed",
+      "startFrameIndex": 1,
+      "endFrameIndex": 1,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "B",
+      "startFrameIndex": 2,
+      "endFrameIndex": 2,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "B_pushed",
+      "startFrameIndex": 3,
+      "endFrameIndex": 3,
+      "speed": 1
+    },
+    {
+      "id": "4",
+      "name": "X",
+      "startFrameIndex": 4,
+      "endFrameIndex": 4,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "X_pushed",
+      "startFrameIndex": 5,
+      "endFrameIndex": 5,
+      "speed": 1
+    },
+    {
+      "id": "6",
+      "name": "Y",
+      "startFrameIndex": 6,
+      "endFrameIndex": 6,
+      "speed": 1
+    },
+    {
+      "id": "7",
+      "name": "Y_pushed",
+      "startFrameIndex": 7,
+      "endFrameIndex": 7,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "up",
+      "startFrameIndex": 8,
+      "endFrameIndex": 8,
+      "speed": 1
+    },
+    {
+      "id": "9",
+      "name": "up_pushed",
+      "startFrameIndex": 9,
+      "endFrameIndex": 9,
+      "speed": 1
+    },
+    {
+      "id": "10",
+      "name": "right",
+      "startFrameIndex": 10,
+      "endFrameIndex": 10,
+      "speed": 1
+    },
+    {
+      "id": "11",
+      "name": "right_pushed",
+      "startFrameIndex": 11,
+      "endFrameIndex": 11,
+      "speed": 1
+    },
+    {
+      "id": "12",
+      "name": "down",
+      "startFrameIndex": 12,
+      "endFrameIndex": 12,
+      "speed": 1
+    },
+    {
+      "id": "13",
+      "name": "down_pushed",
+      "startFrameIndex": 13,
+      "endFrameIndex": 13,
+      "speed": 1
+    },
+    {
+      "id": "14",
+      "name": "left",
+      "startFrameIndex": 14,
+      "endFrameIndex": 14,
+      "speed": 1
+    },
+    {
+      "id": "15",
+      "name": "left_pushed",
+      "startFrameIndex": 15,
+      "endFrameIndex": 15,
+      "speed": 1
+    },
+    {
+      "id": "16",
+      "name": "start",
+      "startFrameIndex": 16,
+      "endFrameIndex": 16,
+      "speed": 1
+    },
+    {
+      "id": "17",
+      "name": "start_pushed",
+      "startFrameIndex": 17,
+      "endFrameIndex": 17,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}

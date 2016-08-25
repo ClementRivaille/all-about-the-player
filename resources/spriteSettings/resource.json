@@ -1,0 +1,6 @@
+{
+  "filtering": "smooth",
+  "pixelsPerUnit": 100,
+  "framesPerSecond": 10,
+  "alphaTest": 0.1
+}

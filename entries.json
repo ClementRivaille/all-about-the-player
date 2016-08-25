@@ -1,0 +1,59 @@
+{
+  "nextEntryId": 12,
+  "nodes": [
+    {
+      "id": "0",
+      "name": "sprites",
+      "type": null,
+      "children": [
+        {
+          "id": "1",
+          "name": "pad",
+          "type": "sprite"
+        },
+        {
+          "id": "2",
+          "name": "buttons",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "behaviors",
+      "type": null,
+      "children": [
+        {
+          "id": "6",
+          "name": "button",
+          "type": "script"
+        },
+        {
+          "id": "7",
+          "name": "pad",
+          "type": "script"
+        },
+        {
+          "id": "11",
+          "name": "GUI",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Main",
+      "type": "scene"
+    },
+    {
+      "id": "8",
+      "name": "PIER",
+      "type": "font"
+    },
+    {
+      "id": "9",
+      "name": "dialogs",
+      "type": "script"
+    }
+  ]
+}
