@@ -554,10 +554,6 @@
                   "key": {
                     "type": "string",
                     "value": "SHIFT"
-                  },
-                  "name": {
-                    "type": "string",
-                    "value": "start"
                   }
                 }
               },
@@ -661,6 +657,47 @@
           "position": {
             "x": 0,
             "y": -4,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "visible": true,
+          "layer": 0,
+          "prefab": null
+        },
+        {
+          "id": "20",
+          "name": "pure-gameplay",
+          "children": [],
+          "components": [
+            {
+              "type": "TextRenderer",
+              "config": {
+                "formatVersion": 2,
+                "fontAssetId": "8",
+                "text": "Press Shift + Enter to activate / deactivate\nthe “Pure Gameplay” mode",
+                "alignment": "center",
+                "verticalAlignment": "center",
+                "size": 123,
+                "color": "8fe720",
+                "overrideOpacity": false,
+                "opacity": null
+              },
+              "id": "0"
+            }
+          ],
+          "position": {
+            "x": 0,
+            "y": -2.381410598754883,
             "z": 0
           },
           "orientation": {

@@ -44,9 +44,10 @@ class ButtonBehavior extends Sup.Behavior {
       this.pressed.key = Sup.Input.wasKeyJustReleased(this.key) ? false : this.pressed.key;
       this.pressed.click = (this.pressed.click && Sup.Input.wasMouseButtonJustReleased(0)) ? false : this.pressed.click;
       
-      // Reset default animation if not pressed
+      // Release button if not pressed
       if (!(this.pressed.key || this.pressed.click))
         this.actor.spriteRenderer.setAnimation(this.name);
+        this.pad.released(this.name);
     }
     
   }

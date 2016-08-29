@@ -99,7 +99,7 @@ const DIALOGS = [
   `But maybe you like just the text?`,
   `Like, you want to remain simple, and humble.`,
   `You're the most humble person in the world by the way.`,
-  `Humility and modesty. Those traits define the true Hero that you are.`,
+  `Humility and modesty. Those traits define the true hero that you are.`,
   `It was a privilege to meet you.`,
   `Anyway, I'm feeling I'm REALLY wasting your precious time.`,
   `You could save the world, right now.
