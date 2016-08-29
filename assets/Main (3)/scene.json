@@ -615,7 +615,7 @@
       ],
       "position": {
         "x": 0,
-        "y": 0,
+        "y": -0.3044871985912323,
         "z": 0
       },
       "orientation": {
@@ -661,6 +661,88 @@
           "position": {
             "x": 0,
             "y": -4,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "visible": true,
+          "layer": 0,
+          "prefab": null
+        },
+        {
+          "id": "18",
+          "name": "author",
+          "children": [],
+          "components": [
+            {
+              "type": "TextRenderer",
+              "config": {
+                "formatVersion": 2,
+                "fontAssetId": "8",
+                "text": "Alexandre Pontaise's",
+                "alignment": "center",
+                "verticalAlignment": "center",
+                "size": 150,
+                "color": "898989",
+                "overrideOpacity": false,
+                "opacity": null
+              },
+              "id": "0"
+            }
+          ],
+          "position": {
+            "x": 0,
+            "y": 4.614,
+            "z": 0
+          },
+          "orientation": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "w": 1
+          },
+          "scale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "visible": true,
+          "layer": 0,
+          "prefab": null
+        },
+        {
+          "id": "19",
+          "name": "title",
+          "children": [],
+          "components": [
+            {
+              "type": "TextRenderer",
+              "config": {
+                "formatVersion": 2,
+                "fontAssetId": "8",
+                "text": "ALL ABOUT THE PLAYER",
+                "alignment": "center",
+                "verticalAlignment": "center",
+                "size": 450,
+                "color": null,
+                "overrideOpacity": false,
+                "opacity": null
+              },
+              "id": "0"
+            }
+          ],
+          "position": {
+            "x": 0,
+            "y": 3.716,
             "z": 0
           },
           "orientation": {
